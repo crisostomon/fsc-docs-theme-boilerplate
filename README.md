@@ -29,6 +29,10 @@ npm run dev
 ## Deployment
 Run the build command to build the website to _site folder:
 ```
+bundle exec jekyll build
+````
+or
+```
 npm run build
 ````
 
